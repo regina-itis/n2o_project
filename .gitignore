@@ -13,6 +13,6 @@
 # Maven
 log/
 target/
-.gitignore/
+.gitignore
 #MacOS
-.DS_Store/
+.DS_Store
