@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a64785e-d907-4478-8c5b-84ec55be97ad" name="Changes" comment="" />
+    <list default="true" id="9a64785e-d907-4478-8c5b-84ec55be97ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,12 +103,23 @@
       <workItem from="1654624891415" duration="2228000" />
       <workItem from="1654705144275" duration="874000" />
       <workItem from="1655030452167" duration="1335000" />
-      <workItem from="1655032561700" duration="2212000" />
+      <workItem from="1655032561700" duration="2495000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
